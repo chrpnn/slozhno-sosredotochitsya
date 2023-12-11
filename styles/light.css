@@ -15,7 +15,6 @@
   --text-color: #353430;
   --accent-color: #ff8dcb;
   --title-color: #ffc2e6;
-  --main-font: "IBM Plex mono";
   --button-color: var(--text-color);
   --title-decor-color: var(--text-color);
   --content-title-color: var(--text-color);
@@ -33,7 +32,6 @@
     --text-color: #353430;
     --accent-color: #ff8dcb;
     --title-color: #ffc2e6;
-    --main-font: "IBM Plex mono";
   }
 
   .decorated-zone-rec {

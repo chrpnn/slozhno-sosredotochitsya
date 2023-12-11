@@ -14,7 +14,6 @@
   --text-color: #f1b2ce;
   --accent-color: #ff0070;
   --title-color: #db00ff;
-  --main-font: "IBM Plex mono";
   --button-color: var(--accent-color);
   --title-decor-color: var(--background-color);
   --content-title-color: var(--accent-color);
